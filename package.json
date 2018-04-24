@@ -1,0 +1,44 @@
+{
+  "_args": [
+    [
+      "react-native-braintree-xplat@3.5.0",
+      "/Users/macbookpro/Documents/Development/demco/mobileapp"
+    ]
+  ],
+  "_from": "react-native-braintree-xplat@3.5.0",
+  "_id": "react-native-braintree-xplat@3.5.0",
+  "_inBundle": false,
+  "_integrity": "sha1-HHsxQ2WJAUlcVP5AW3f2p9TFh1o=",
+  "_location": "/react-native-braintree-xplat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-braintree-xplat@3.5.0",
+    "name": "react-native-braintree-xplat",
+    "escapedName": "react-native-braintree-xplat",
+    "rawSpec": "3.5.0",
+    "saveSpec": null,
+    "fetchSpec": "3.5.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-braintree-xplat/-/react-native-braintree-xplat-3.5.0.tgz",
+  "_spec": "3.5.0",
+  "_where": "/Users/macbookpro/Documents/Development/demco/mobileapp",
+  "author": {
+    "name": "Rickard Ekman",
+    "email": "rickard@swiftpulse.com",
+    "url": "https://github.com/kraffslol"
+  },
+  "description": "Cross platform Braintree module",
+  "license": "MIT",
+  "main": "index",
+  "name": "react-native-braintree-xplat",
+  "respository": {
+    "type": "git",
+    "url": "git@github.com:kraffslol/react-native-braintree-xplat.git"
+  },
+  "version": "3.5.0"
+}
